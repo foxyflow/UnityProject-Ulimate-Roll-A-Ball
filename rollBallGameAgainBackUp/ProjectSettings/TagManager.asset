@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Undefined
+  - Pick Up
+  - Start Music
+  - CollectablesComplete
+  - jump
+  - Play Music
+  - CeciliaTag
+  - LastOfUsTag
+  - Uncharted
+  - WonderBoy3
+  - LowRoar
+  - Kamelot
+  - LustForLife
+  - FinalFantasy
+  - StopMusic
+  - Fire
+  - FinalFantasy2
+  - FinalFantasy3
+  - PerfectDark
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
